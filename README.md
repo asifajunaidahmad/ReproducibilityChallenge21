@@ -2,7 +2,9 @@
 This folder contains complete code to reproduce FakeFlow model
 FakeFlow: Fake News Detection by Modeling the Flow of Affective Information
 The Code work on only below specific versions and Libraries
+
 REQUIREMENTS
+
 gensim==3.8.0
 joblib==0.14.1
 Keras==2.2.4
